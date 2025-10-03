@@ -1,4 +1,4 @@
-const message = `Happy Girlfriend Day Babee!\nthank you for coming into my life.\n\nYour love fills my heart with endless happiness & joy. you’re my everything.\n\nI’m so lucky to have you in my life.\n\nI love you today, tomorrow, and forever.`;
+const message = `Happy Girlfriend Day Babee!\n\nthank you for coming into my life.\n\nYour love fills my heart with endless happiness & joy. you’re my everything.\n\nI’m so lucky to have you in my life.\n\nI love you today, tomorrow, and forever.\n\n\nFrom ur bf💕`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,5 +21,6 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
